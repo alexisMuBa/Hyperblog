@@ -3,7 +3,7 @@ Un blog increible para el curso de Git y Github de Platzi
 > El curso de Git y Github de [Platzi](https://www.platzi.com/) es lo que me hacia falta para ver el talento que tengo como programador y conocer tal vez una de mi porfesiones que más a amare en i vida.
 > Alexis Murillo
 
-En este curso vemos de todo:
+## En este curso vemos de todo:
 * Todos los comandos de Git 
 * El flujo de trabajo de Github
 * El verdadero amor por las buenas practicas
